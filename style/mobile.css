@@ -2,6 +2,9 @@
 body{
     background-color: black;
 }
+.header{
+    background-color: linear-gradient(180.00deg, rgb(17, 17, 17), rgba(119, 119, 119, 0) 100%);
+}
 .inter-normal{
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
